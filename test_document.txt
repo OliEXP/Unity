@@ -1,1 +1,5 @@
 print("Hola Mundo")
+void Saludar()
+{
+	print("prueba")
+{
